@@ -27,7 +27,13 @@
 
 `[Homepage]`: [https://sourceforge.net/projects/wtl/](https://sourceforge.net/projects/wtl/)
 
-`[.Author.]`: [nenadstefanovic](https://sourceforge.net/u/nenadstefanovic/)
+`[ Author ]`: [nenadstefanovic](https://sourceforge.net/u/nenadstefanovic/)
+
+# Hacked version
+
+`[Homepage]`: [https://github.com/shines77/wtl10-git/](https://github.com/shines77/wtl10-git/)
+
+`[ Author ]`: [shines77](https://github.com/shines77/)
 
 # Credits
 
